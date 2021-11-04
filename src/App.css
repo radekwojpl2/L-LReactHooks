@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(169, 164, 164);
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.link_container {
+  margin: 20px;
+}
+
+.content_container {
+  margin: 20px;
+}
+
+
+.main_container {
+  text-align: center;
+}
